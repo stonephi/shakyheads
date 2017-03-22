@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShakyHeadBullshitSpeaker</string>
+    <string name="title_home">ShakyHead</string>
+    <string name="title_sounds">Sounds</string>
+    <string name="title_import">Import</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
